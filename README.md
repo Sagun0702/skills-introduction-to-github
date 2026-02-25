@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎉 Congratulations Sagun0702! 🎉
+# 🎉 Congratulations Sagun Shrestha! 🎉
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
